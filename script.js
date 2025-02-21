@@ -1,3 +1,4 @@
+ // All Code below is my own code
 // Shopping Cart functionality
 let cart = [];
 
